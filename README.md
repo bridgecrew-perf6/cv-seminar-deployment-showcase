@@ -5,9 +5,9 @@ Both do the same:
 Drag and drop an image into them and they will show a prediction.
 
 The thick client uses a MobileNet trained on ImageNet and runs entirely in the browser.
-![The thick client](https://github.com/mx-e/cv-seminar-deployment-showcase/edit/main/thick_client.png)
+![The thick client](http://github.com/mx-e/cv-seminar-deployment-showcase/edit/main/thick_client.png)
 The thin client connects to a python server. The server runs a VGG16 net trained on ImageNet for classification.
-![The thick client](https://github.com/mx-e/cv-seminar-deployment-showcase/edit/main/thin_client.png)
+![The thick client](http://github.com/mx-e/cv-seminar-deployment-showcase/edit/main/thin_client.png)
 
 
 ### Usage
