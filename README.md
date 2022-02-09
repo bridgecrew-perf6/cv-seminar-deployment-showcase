@@ -28,6 +28,6 @@ will start them. For build instructions etc. use the create-react app documentat
 To run the server, cd into the "backend" directory of the thin client. Install the dependencies from the pyproject.toml then run 
 
 ```
-python ml_backend
+python ml_backend.py
 ```
 to run the server.
