@@ -18,12 +18,12 @@ The thin client connects to a python server. The server runs a VGG16 net trained
 
 ### Usage
 
-Both repos were built with create-react-app so 
+Both apps were built with create-react-app so 
 
 ```
 yarn install && yarn run start
 ```
-will start them. For build instructions etc. use the create-react app documentation.
+will start them. For build instructions etc. use the create-react-app documentation.
 
 To run the server, cd into the `cv_sem_demo_thin/backend` directory of the thin client. Install the dependencies from the `.pyproject.toml` then run 
 
