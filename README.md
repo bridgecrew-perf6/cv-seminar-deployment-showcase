@@ -30,4 +30,4 @@ To run the server, cd into the `cv_sem_demo_thin/backend` directory of the thin 
 ```
 python ml_backend.py
 ```
-to run the server.
+to run start server.
