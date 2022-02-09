@@ -25,7 +25,7 @@ yarn install && yarn run start
 ```
 will start them. For build instructions etc. use the create-react app documentation.
 
-To run the server, cd into the "backend" directory of the thin client. Install the dependencies from the pyproject.toml then run 
+To run the server, cd into the `cv_sem_demo_thin/backend` directory of the thin client. Install the dependencies from the `.pyproject.toml` then run 
 
 ```
 python ml_backend.py
