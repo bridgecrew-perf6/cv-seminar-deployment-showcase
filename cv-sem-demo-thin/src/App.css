@@ -1,0 +1,31 @@
+
+.App {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.upload-container {
+  width: 800px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin: 2rem auto;
+  border: 1px dashed lightgrey;
+  border-radius: 2rem;
+  transition: 0.2s box-shadow, 0.2s background-color;
+  box-shadow: 0 10px 40px -30px rgba(0,0,0, 0.2);
+  user-select: none;
+  background-color: floralwhite;
+}
+
+.upload-container.over {
+  background-color: rgba(200,200,200,0.2);
+  box-shadow: 1px 1px 10px lightgray;
+}
+
+h2 {
+  transition: 0.2s color;
+  text-align: center;
+}
